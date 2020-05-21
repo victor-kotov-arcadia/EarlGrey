@@ -55,8 +55,8 @@ CommonLib/
 TestLib/
 UILib/
 Tests/
-fishhook/
-eDistantObject/
+Submodules/fishhook/
+Submodules/eDistantObject/
 README.md
 LICENSE
 EarlGrey.xcodeproj
